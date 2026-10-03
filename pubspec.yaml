@@ -1,0 +1,24 @@
+name: masonry_sliver
+description: A lazy staggered (masonry) sliver for Flutter whose scroll length stays exact, with no jumping or stuck scrolling.
+version: 0.1.0
+homepage: https://github.com/kenresoft-technologies/masonry_sliver
+repository: https://github.com/kenresoft-technologies/masonry_sliver
+issue_tracker: https://github.com/kenresoft-technologies/masonry_sliver/issues
+topics:
+  - sliver
+  - masonry
+  - staggered-grid
+  - scrolling
+
+environment:
+  sdk: ^3.5.0
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
